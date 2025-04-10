@@ -60,9 +60,8 @@ Atualmente estou focado em:
 
 ### 📫 Como me encontrar
 
-[LinkedIn](www.linkedin.com/in/patrycky-a-1ba904168) 
-[GitHub](https://github.com/Patrycky)
-Email: patrycky85@hotmail.com
+
+[LinkedIn](www.linkedin.com/in/patrycky-a-1ba904168)  • [GitHub](https://github.com/Patrycky)  • Email: patrycky85@hotmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario) 
