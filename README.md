@@ -26,7 +26,7 @@ Atualmente estou focado em:
 - **Backend:** Node.js, Express, Sequelize  
 - **Banco de Dados:** MySQL, SQLite  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Industrial:** CLP, redes industriais, sensores, válvulas eletropneumáticas, robótica  
+- **Industrial:** CLP, redes industriais, Motion Control,sensores, válvulas eletropneumáticas, robótica  
 - **Outros:** Git, GitHub, Postman, VS Code
 
 #### Linguagens e Frameworks  
@@ -45,11 +45,14 @@ Atualmente estou focado em:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
+#### Indústria e Automação  
+⚡ CLPs | 🧠 Robótica | 🛞 Motion Control | 📈 Controle de Processos
+
 ---
 
 ### 📈 Atualmente trabalhando em:
 
-- API RESTful para gerenciamento de veículos (`empresaCar`)  
+- API RESTful para gerenciamento de veículos (`compassCar`)  
 - Sistema de controle de válvulas eletropneumáticas com integração a CLP  
 - Dashboard para monitoramento de processos industriais
 
@@ -58,6 +61,8 @@ Atualmente estou focado em:
 ### 📫 Como me encontrar
 
 [LinkedIn](www.linkedin.com/in/patrycky-a-1ba904168) • [GitHub](https://github.com/Patrycky) • Email: patrycky85@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario) 
 
 ---
 
