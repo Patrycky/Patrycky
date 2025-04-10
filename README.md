@@ -26,7 +26,7 @@ Atualmente estou focado em:
 - **Backend:** Node.js, Express, Sequelize  
 - **Banco de Dados:** MySQL, SQLite  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Industrial:** CLP, redes industriais, Motion Control, sensores, válvulas eletropneumáticas, robótica  
+- **Industrial:** CLP, redes industriais, Motion Control, sensores, válvulas eletropneumáticas e robótica  
 - **Outros:** Git, GitHub, Postman, VS Code
 
 #### Linguagens e Frameworks  
